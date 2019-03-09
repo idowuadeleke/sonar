@@ -23,5 +23,5 @@ def test_add_4():
 def test_add_5():
 	assert 3+2 == 5,"failed"
 
-def test_add_6():
-	assert 3+2 == 6,"failed"
+# def test_add_6():
+# 	assert 3+2 == 6,"failed"
