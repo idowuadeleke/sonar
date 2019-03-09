@@ -1,0 +1,22 @@
+************* Module calculator.tests.mytest.test_calc_func
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:7: [E0401(import-error), ] Unable to import 'pytest'
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:8: [W0401(wildcard-import), ] Wildcard import calc_func
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:15: [C0111(missing-docstring), test_add] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:20: [C0111(missing-docstring), test_subtract] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:25: [C0111(missing-docstring), test_subtract_negative] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:30: [C0111(missing-docstring), test_multiply] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:35: [C0111(missing-docstring), test_divide] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:43: [C0111(missing-docstring), test_divide_by_zero] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:44: [C0103(invalid-name), test_divide_by_zero] Variable name "e" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:56: [C0103(invalid-name), test_maximum] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:56: [C0103(invalid-name), test_maximum] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:56: [C0111(missing-docstring), test_maximum] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:65: [C0103(invalid-name), test_minimum] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:65: [C0103(invalid-name), test_minimum] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\mytest\test_calc_func.py:65: [C0111(missing-docstring), test_minimum] Missing function docstring
+
+-------------------------------------------------------------------
+
+Your code has been rated at 2.96/10 (previous run: 10.00/10, -7.04)
+
+

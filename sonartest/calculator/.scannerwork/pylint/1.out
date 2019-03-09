@@ -1,0 +1,10 @@
+************* Module calculator.admin
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\admin.py:1: [C0111(missing-docstring), ] Missing module docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\admin.py:1: [E0401(import-error), ] Unable to import 'django.contrib'
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\admin.py:1: [W0611(unused-import), ] Unused admin imported from django.contrib
+
+----------------------------------------------------------------------
+
+Your code has been rated at -60.00/10 (previous run: -60.00/10, +0.00)
+
+

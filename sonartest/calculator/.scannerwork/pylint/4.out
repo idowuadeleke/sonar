@@ -1,0 +1,31 @@
+************* Module calculator.function_example.calc_class
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:6: [W0401(wildcard-import), ] Wildcard import calc_func
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:9: [C0111(missing-docstring), Calculator] Missing class docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:9: [R0205(useless-object-inheritance), Calculator] Class 'Calculator' inherits from object, can be safely removed from bases in python3
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:14: [C0111(missing-docstring), Calculator.last_answer] Missing method docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:17: [C0103(invalid-name), Calculator._do_math] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:17: [C0103(invalid-name), Calculator._do_math] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:21: [C0103(invalid-name), Calculator.add] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:21: [C0103(invalid-name), Calculator.add] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:21: [C0111(missing-docstring), Calculator.add] Missing method docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:24: [C0103(invalid-name), Calculator.subtract] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:24: [C0103(invalid-name), Calculator.subtract] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:24: [C0111(missing-docstring), Calculator.subtract] Missing method docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:27: [C0103(invalid-name), Calculator.multiply] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:27: [C0103(invalid-name), Calculator.multiply] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:27: [C0111(missing-docstring), Calculator.multiply] Missing method docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:30: [C0103(invalid-name), Calculator.divide] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:30: [C0103(invalid-name), Calculator.divide] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:30: [C0111(missing-docstring), Calculator.divide] Missing method docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:33: [C0103(invalid-name), Calculator.maximum] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:33: [C0103(invalid-name), Calculator.maximum] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:33: [C0111(missing-docstring), Calculator.maximum] Missing method docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:36: [C0103(invalid-name), Calculator.minimum] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:36: [C0103(invalid-name), Calculator.minimum] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\function_example\calc_class.py:36: [C0111(missing-docstring), Calculator.minimum] Missing method docstring
+
+--------------------------------------------------------------------
+
+Your code has been rated at -1.43/10 (previous run: -1.43/10, +0.00)
+
+

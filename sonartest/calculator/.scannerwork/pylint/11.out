@@ -1,0 +1,25 @@
+************* Module calculator.tests.calc_func
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:6: [C0103(invalid-name), add] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:6: [C0103(invalid-name), add] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:6: [C0111(missing-docstring), add] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:10: [C0103(invalid-name), subtract] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:10: [C0103(invalid-name), subtract] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:10: [C0111(missing-docstring), subtract] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:14: [C0103(invalid-name), multiply] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:14: [C0103(invalid-name), multiply] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:14: [C0111(missing-docstring), multiply] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:18: [C0103(invalid-name), divide] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:18: [C0103(invalid-name), divide] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:18: [C0111(missing-docstring), divide] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:23: [C0103(invalid-name), maximum] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:23: [C0103(invalid-name), maximum] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:23: [C0111(missing-docstring), maximum] Missing function docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:27: [C0103(invalid-name), minimum] Argument name "a" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:27: [C0103(invalid-name), minimum] Argument name "b" doesn't conform to snake_case naming style
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests\calc_func.py:27: [C0111(missing-docstring), minimum] Missing function docstring
+
+------------------------------------
+
+Your code has been rated at -5.00/10
+
+

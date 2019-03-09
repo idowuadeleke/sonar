@@ -1,0 +1,11 @@
+************* Module calculator.apps
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\apps.py:1: [C0111(missing-docstring), ] Missing module docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\apps.py:1: [E0401(import-error), ] Unable to import 'django.apps'
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\apps.py:4: [C0111(missing-docstring), CalculatorConfig] Missing class docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\apps.py:4: [R0903(too-few-public-methods), CalculatorConfig] Too few public methods (0/2)
+
+----------------------------------------------------------------------
+
+Your code has been rated at -16.67/10 (previous run: -16.67/10, +0.00)
+
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="8" errors="2" failures="0" skip="0"><testcase classname="calculator.tests.test_calc_func" name="test_add" time="0.001"></testcase><testcase classname="calculator.tests.test_calc_func" name="test_subtract" time="0.000"></testcase><testcase classname="calculator.tests.test_calc_func" name="test_subtract_negative" time="0.000"></testcase><testcase classname="calculator.tests.test_calc_func" name="test_multiply" time="0.000"></testcase><testcase classname="calculator.tests.test_calc_func" name="test_divide" time="0.000"></testcase><testcase classname="calculator.tests.test_calc_func" name="test_divide_by_zero" time="0.000"></testcase><testcase classname="calculator.tests.test_calc_func" name="test_maximum" time="0.000"><error type="builtins.TypeError" message="test_maximum() missing 3 required positional arguments: 'a', 'b', and 'expected'"><![CDATA[Traceback (most recent call last):
+  File "C:\Users\idowu.adeleke\AppData\Local\Programs\Python\Python36\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "C:\Users\idowu.adeleke\AppData\Local\Programs\Python\Python36\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\idowu.adeleke\desktop\sonartest\env\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+TypeError: test_maximum() missing 3 required positional arguments: 'a', 'b', and 'expected'
+]]></error></testcase><testcase classname="calculator.tests.test_calc_func" name="test_minimum" time="0.000"><error type="builtins.TypeError" message="test_minimum() missing 3 required positional arguments: 'a', 'b', and 'expected'"><![CDATA[Traceback (most recent call last):
+  File "C:\Users\idowu.adeleke\AppData\Local\Programs\Python\Python36\lib\unittest\case.py", line 59, in testPartExecutor
+    yield
+  File "C:\Users\idowu.adeleke\AppData\Local\Programs\Python\Python36\lib\unittest\case.py", line 605, in run
+    testMethod()
+  File "c:\users\idowu.adeleke\desktop\sonartest\env\lib\site-packages\nose\case.py", line 198, in runTest
+    self.test(*self.arg)
+TypeError: test_minimum() missing 3 required positional arguments: 'a', 'b', and 'expected'
+]]></error></testcase></testsuite>

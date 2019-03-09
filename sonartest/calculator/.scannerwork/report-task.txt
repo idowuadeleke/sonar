@@ -1,0 +1,6 @@
+projectKey=sqt
+serverUrl=http://sonarqube.test.vggdev.com:4143
+serverVersion=7.3.0.15553
+dashboardUrl=http://sonarqube.test.vggdev.com:4143/dashboard?id=sqt
+ceTaskId=AWliF0CaSYv6vX_3Ezgh
+ceTaskUrl=http://sonarqube.test.vggdev.com:4143/api/ce/task?id=AWliF0CaSYv6vX_3Ezgh

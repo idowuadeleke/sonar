@@ -1,0 +1,10 @@
+************* Module calculator.tests
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests.py:1: [C0111(missing-docstring), ] Missing module docstring
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests.py:1: [E0401(import-error), ] Unable to import 'django.test'
+C:\Users\idowu.adeleke\Desktop\sonartest\sonartest\calculator\tests.py:1: [W0611(unused-import), ] Unused TestCase imported from django.test
+
+----------------------------------------------------------------------
+
+Your code has been rated at -60.00/10 (previous run: -60.00/10, +0.00)
+
+
